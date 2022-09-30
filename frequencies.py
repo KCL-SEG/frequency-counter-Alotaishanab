@@ -13,4 +13,3 @@ def frequencies(items):
     return frequency
 
 
-print(frequencies(['chocolate','chocolate','chocolate','3',3,3,3,2,2]))
